@@ -2,3 +2,4 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/mspatel18?color=red-devil&label=FollowingPeeps&style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/mspatel18?affiliations=OWNER&color=raspberry_rose&style=for-the-badge)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?mspatel18=mspatel18&theme=tokyonight)
