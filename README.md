@@ -5,8 +5,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mspatel18&layout=compact&theme=github_dark)-->
 <h1 align="center">Hi 👋, I'm Mann Patel</h1>
 <h3 align="center">A passionate learning developer from India</h3>
-
-<p align="left"> <a href="https://twitter.com/mspatel_18" target="blank"><img src="https://img.shields.io/twitter/follow/mspatel_18?logo=twitter&style=for-the-badge" alt="mspatel_18" /></a> </p>
+<!-- 
+<p align="left"> <a href="https://twitter.com/mspatel_18" target="blank"><img src="https://img.shields.io/twitter/follow/mspatel_18?logo=twitter&style=for-the-badge" alt="mspatel_18" /></a> </p> -->
 
 - 🌱 I’m currently learning **DSA & Web Development**
 
