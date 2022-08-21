@@ -3,7 +3,7 @@
 </div>
 
 <h2>💻 A passionate developer from India,</h2> 
-<h2>🌱 I’m currently learning DSA & Web Development.</h2>
+<h2>👨‍💻 I’m currently learning DSA & Web Development.</h2>
 
 <h2>🚀 Github Stats: </h2> 
 
