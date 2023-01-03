@@ -18,7 +18,6 @@ I'm in my 2nd year of college trying my hands at coding, graphic design, and 3d 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=instagram&logoColor=white)](https://instagram.com/mspatel18)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=badge&logo=LeetCode&logoColor=black)](https://leetcode.com/mspatel18/)
 [![website](https://img.shields.io/badge/Portfolio-46a2f1.svg?&style=badge&logo=Google-Chrome&logoColor=black&link=https://mspatel18-threejs.netlify.app/)](https://mspatel18-threejs.netlify.app/)
-![Visitors](https://komarev.com/ghpvc/?username=your-github-mspatel18&color=blue&style=badge&label=Visitors)
 ### Skills
 
 
