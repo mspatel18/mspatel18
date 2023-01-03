@@ -4,7 +4,7 @@ Hi 👋 My name is Mann Patel
 Web Developer and part-time Graphic Designer
 --------------------------------------------
 
-Hey there I'm in my 2nd year of college trying my hands at coding, graphic design, and 3d modeling
+I'm in my 2nd year of college trying my hands at coding, graphic design, and 3d modeling
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](https://mspatel18-threejs.netlify.app/)
