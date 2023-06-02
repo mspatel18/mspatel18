@@ -5,7 +5,7 @@ Web Developer and part-time Graphic Designer
 --------------------------------------------
 
 I'm in my 2nd year of college trying my hands at coding, graphic design, and 3d modeling
-<!-- * 🖥️  See my portfolio at [My Portfolio](https://mspatel18-threejs.netlify.app/) -->
+* 🖥️  See my portfolio at [My Portfolio](https://mspatel18-threejs.netlify.app/)
 * 🌍  I'm based in India
 * ✉️  You can contact me at [mannpatel3118@gmail.com](mailto:mannpatel3118@gmail.com)
 * 🧠  I'm currently learning DSA & React
