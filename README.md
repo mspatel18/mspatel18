@@ -1,43 +1,50 @@
-Hi 👋 My name is Mann Patel
-===========================
+# Hi 👋 I am Mann Patel
+## Web Developer and Designer
+Trying my hands at coding, graphic designing, and 3d modeling
 
-Web Developer and part-time Graphic Designer
---------------------------------------------
-
-I'm in my 2nd year of college trying my hands at coding, graphic design, and 3d modeling
-* 🖥️  See my portfolio at [My Portfolio](https://mspatel18-threejs.netlify.app/)
 * 🌍  I'm based in India
-* ✉️  You can contact me at [mannpatel3118@gmail.com](mailto:mannpatel3118@gmail.com)
-* 🧠  I'm currently learning DSA & React
+* 🖥️  See my portfolio at [My Portfolio](https://mspatel18.netlify.com)
+* ✉️  You can reach me at [mannpatel3118@gmail.com](mailto:mannpatel3118@gmail.com)
+* 🧠  I'm currently learning React
 * 🤝  I'm open to collaborating on interesting projects
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Mspatel_18?label=Follow)](https://twitter.com/Mspatel_18)
-[![GitHub Follow](https://img.shields.io/github/followers/mspatel18?label=Follow&style=social)](https://github.com/mspatel18)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mspatel18/)](https://www.linkedin.com/in/mspatel18/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=instagram&logoColor=white)](https://instagram.com/mspatel18)
-[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=badge&logo=LeetCode&logoColor=black)](https://leetcode.com/mspatel18/)
-[![website](https://img.shields.io/badge/Portfolio-46a2f1.svg?&style=badge&logo=Google-Chrome&logoColor=black&link=https://mspatel18-threejs.netlify.app/)](https://mspatel18-threejs.netlify.app/)
-### Skills
+
+[![Github Follow](https://img.shields.io/badge/Github-100000?style=badge&logo=github&logoColor=white)](https://github.com/mspatel18)
+[![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=badge&logo=twitter&logoColor=white)](https://twitter.com/mspatel_18)
+[![Linkedin Follow](https://img.shields.io/badge/Linkedin-0077B5?style=badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mspatel18/)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=instagram&logoColor=white)](https://instagram.com/mspatel18)
+[![LeetCode Follow](https://img.shields.io/badge/LeetCode-FFA116?style=badge&logo=leetcode&logoColor=white)](https://leetcode.com/mspatel18/)
+[![Codechef Follow](https://img.shields.io/badge/Codechef-B92B27?style=badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/mspatel18)
 
 
+<h3 align="left">Skills:</h3>
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="36" height="36" /></a>
-<a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="36" height="36" /></a>
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" width="36" height="36" alt="After Effects" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
- <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="36" height="36"/> </a>
+
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="CPLUS" /></a>
+<a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="JAVA" /></a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JAVASCRIPT" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="PYTHON" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML" /></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS" /></a> 
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="36" height="36" alt="SASS" /></a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="REACT" /></a> 
+<a href="https://material-ui.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="36" height="36" alt="MATERIALUI" /></a> 
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="NODEJS" /></a> 
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="36" height="36" alt="ILLUSTRATOR" /></a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="36" height="36" alt="PHOTOSHOP" /></a>
+<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="36" height="36" alt="XD" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" height="36" alt="FIGMA" /></a>
+<a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="36" height="36" alt="AFTEREFFECTS" /></a>
+<a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="36" height="36" alt="PREMIEREPRO" /></a>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="36" height="36" alt="BLENDER" /></a>
+<a href="https://www.unrealengine.com/en-US/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="36" height="36" alt="UNREALENGINE" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="GIT" /></a>
+
 </p>
+
+
+
 
 
 ### Badges
