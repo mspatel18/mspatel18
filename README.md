@@ -10,11 +10,10 @@ Trying my hands at coding, graphic designing, and 3d modeling
 
 
 [![Github Follow](https://img.shields.io/badge/Github-100000?style=badge&logo=github&logoColor=white)](https://github.com/mspatel18)
-[![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=badge&logo=twitter&logoColor=white)](https://twitter.com/mspatel_18)
+[![X Follow](https://img.shields.io/badge/-100000?style=badge&logo=x&logoColor=white)](https://x.com/mspatel_18)
 [![Linkedin Follow](https://img.shields.io/badge/Linkedin-0077B5?style=badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mspatel18/)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=instagram&logoColor=white)](https://instagram.com/mspatel18)
 [![LeetCode Follow](https://img.shields.io/badge/LeetCode-FFA116?style=badge&logo=leetcode&logoColor=white)](https://leetcode.com/mspatel18/)
-[![Codechef Follow](https://img.shields.io/badge/Codechef-B92B27?style=badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/mspatel18)
 
 
 <h3 align="left">Skills:</h3>
