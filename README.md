@@ -3,7 +3,7 @@
 Trying my hands at coding, graphic designing, and 3d modeling
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfolio](https://mspatel18.netlify.com)
+* 🖥️  See my portfolio at [My Portfolio](https://mspatel18.vercel.com)
 * ✉️  You can reach me at [mannpatel3118@gmail.com](mailto:mannpatel3118@gmail.com)
 * 🧠  I'm currently learning Full Stack Development
 * 🤝  I'm open to collaborating on interesting projects
